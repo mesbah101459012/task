@@ -1,5 +1,5 @@
 # task
-##Do not change the task folder location plz (put it in localhost with te name "task") for mailing (handlers->resetPass line 86)
+##Do not change the task folder location plz (put it in localhost with te name "task") for mailing (handlers->resetPass line 86 & assets-js->main.js line 172 )
 
 
 PHPmailer library to send mails with cradintials "i will use mail trap to do it"
